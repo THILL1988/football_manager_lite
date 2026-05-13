@@ -63890,7 +63890,7 @@ if(p===B.uF)return new A.CX(q.r,q.e,new A.a52(r),s)
 if(p===B.uG)return new A.FD(q.f,r.gOE(),new A.a53(r),s)
 if(p===B.ir){r.r.ve(q.w)
 return new A.CK(q.w,new A.a4V(r),s)}if(p===B.uH)return new A.G1(q.y,new A.a4W(r),s)
-return A.kW(A.d([new A.dk(B.cd,A.dZ("\ud83d\udcc5 Day: "+q.k(0)+".day / 18",B.KN),s),A.BV(A.aqQ(A.dZ(q.b,B.JX),B.cd))],t.E),B.b3,B.at,B.b6)},
+return A.kW(A.d([new A.dk(B.cd,A.dZ("\ud83d\udcc5 Day: "+q.d+" / 18",B.KN),s),A.BV(A.aqQ(A.dZ(q.b,B.JX),B.cd))],t.E),B.b3,B.at,B.b6)},
 $S:29}
 A.a52.prototype={
 $1(a){var s=this.a
