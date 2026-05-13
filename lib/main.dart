@@ -229,7 +229,7 @@ class _GameScreenState extends State<GameScreen> {
                     Padding(
                       padding: const EdgeInsets.all(12),
                       child: Text(
-                        "📅 Day: $game.day / $seasonLength",
+                        "📅 Day: ${game.day} / $seasonLength",
                         style: const TextStyle(
                           fontSize: 16,
                           fontWeight: FontWeight.bold,
